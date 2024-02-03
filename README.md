@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kushagra Parasramka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Engineer</h3>
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I’m currently working on **Autism Detection**
 
-- 🌱 I’m currently learning **😎**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking for **creative people**
+- 👯 I’m looking for **Experienced developers**
 
-- 🤝 I’m looking for help with **Algorithms**
+- 🤝 I’m looking for help with **Backend Development**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **Parasramka.kushagra123@gmail.com**
+- 📫 How to reach me **parasramka.kushagra123@gmail.com**
 
-- 🫥 **Don't waste your time**
+- 🫥 **I smoke code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
